@@ -1,0 +1,14 @@
+# Ignore Python virtual environment
+env/
+.venv/
+__pycache__/
+
+# Ignore large data files
+*.csv
+*.pyd
+*.dll
+*.h5
+*.ckpt
+
+# VS Code settings
+.vscode/
